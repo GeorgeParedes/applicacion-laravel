@@ -1,2 +1,2 @@
 # applicacion-laravel
-proyecto final con laravel y admilte
+proyecto final con laravel y adminLte
